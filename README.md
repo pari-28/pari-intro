@@ -1,6 +1,6 @@
 # Hi , I'm Pari Sangamnerkar  
 🎓 Computer Science & Engineering (Core) 
-🚀 Passionate about software engineering, problem-solving, and building impactful tech solutions  
+🚀 Passionate about software engineering, problem-solving, and building impactful tech solutions   
 
 🎥 **Introduction Video**  
 👉 [Watch my introduction video on Google Drive](https://drive.google.com/file/d/17GTOZdaWY4LjabNODxlhEMSrwJ3bv0h2/view?usp=drive_link)
